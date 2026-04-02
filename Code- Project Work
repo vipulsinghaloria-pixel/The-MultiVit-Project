@@ -1,1 +1,11 @@
+--1. Show whether each nutrient in MuscleBlaze is sufficient or insufficient compared to daily requirement
 
+SELECT multivit."Nutrients",
+       multivit."HK Vitals ",
+       multivit3."PerDayNutReq",
+       CASE
+           WHEN multivit."HK Vitals " >= multivit3."PerDayNutReq" THEN 'Sufficient'
+           ELSE 'Insufficient'
+       END AS Status
+FROM multivit
+JOIN multivit3 ON multivit."Nutrients" = multivit3."Nutrients";
