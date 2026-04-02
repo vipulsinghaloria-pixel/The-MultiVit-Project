@@ -6,9 +6,9 @@ Choosing the right multivitamin can be confusing due to the wide variety of bran
 
 
 
-<img width="290" height="290" alt="image" src="https://github.com/user-attachments/assets/e08d18ab-cc6d-409c-b0df-0af2e4e3b8b9" /> 
-<img width="290" height="290" alt="HK VITAL pixlr" src="https://github.com/user-attachments/assets/526b0d69-853b-48cb-8fcc-2ff4e5ea043a" />
-<img width="290" height="290" alt="carbamide" src="https://github.com/user-attachments/assets/c404c72e-7bec-4b92-a5d8-f8e047a49ad9" />
+<img width="270" height="270" alt="image" src="https://github.com/user-attachments/assets/e08d18ab-cc6d-409c-b0df-0af2e4e3b8b9" /> 
+<img width="270" height="270" alt="HK VITAL pixlr" src="https://github.com/user-attachments/assets/526b0d69-853b-48cb-8fcc-2ff4e5ea043a" />
+<img width="270" height="270" alt="carbamide" src="https://github.com/user-attachments/assets/c404c72e-7bec-4b92-a5d8-f8e047a49ad9" />
 
 
 
