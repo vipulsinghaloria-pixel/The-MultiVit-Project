@@ -1,16 +1,24 @@
 # Questions Solved In this Project-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-12.
-13.
-14.
-15.
+
+1. Show whether each nutrient in MuscleBlaze is sufficient or insufficient compared to daily requirement.
+
+2. Calculate total nutrients for each brand.
+
+3. Rank nutrients by HK Vitals values.
+
+4. List nutrients missing in HK Vitals or Carbamide.
+
+5. Show cost per nutrient for each brand.
+
+6. Show nutrients where HK Vitals meets or exceeds daily requirement.
+
+7. Calculate cumulative totals for MuscleBlaze nutrients.
+
+8. Show average nutrient values for each brand.
+
+9. Identify strongest brand for each nutrient.
+
+10. Show percentage contribution of each brand per nutrient and rank them.
+
+11. Calculate average ratings across platforms.
 
