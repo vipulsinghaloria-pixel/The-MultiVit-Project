@@ -1,4 +1,4 @@
-
+--1. Show whether each nutrient in MuscleBlaze is sufficient or insufficient compared to daily requirement
 
 SELECT multivit."Nutrients",
        multivit."HK Vitals ",
